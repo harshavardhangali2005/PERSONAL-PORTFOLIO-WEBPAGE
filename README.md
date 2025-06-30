@@ -14,13 +14,13 @@
 
 ##Task Description: Personal Portfolio Webpage**
 
-1. What the Task Is
+*1. What the Task Is*
 
 This task involves the design and development of a *Personal Portfolio Webpage*—a digital space that represents an individual’s professional identity, achievements, and skill set. The main goal of this task is to create a clean, responsive, and well-structured website that showcases personal projects, work experience, education, technical skills, certifications, and contact details.
 
 The portfolio acts as a digital resume and is primarily aimed at helping individuals present their capabilities to potential employers, clients, or collaborators. It highlights personal branding, offering visitors an overview of who the person is, what they do, and how they can be contacted. In today’s digital age, a portfolio website not only adds professionalism but also gives an edge during job applications and freelance proposals.
 
-2. Tools and Technologies Used
+*2. Tools and Technologies Used*
 
 To develop the personal portfolio webpage, the following tools and technologies were used:
 
